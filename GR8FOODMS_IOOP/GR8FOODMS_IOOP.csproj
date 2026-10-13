@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{35DC0951-846F-4DAC-B64C-801A6BCDDB5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GR8FOODMS_IOOP</RootNamespace>
+    <AssemblyName>GR8FOODMS_IOOP</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminclasses\Admin.cs" />
+    <Compile Include="adminclasses\Chef.cs" />
+    <Compile Include="adminclasses\Customer.cs" />
+    <Compile Include="adminclasses\Manager.cs" />
+    <Compile Include="adminclasses\Menu.cs" />
+    <Compile Include="adminclasses\Order.cs" />
+    <Compile Include="adminforms\AddUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\AddUserForm.Designer.cs">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminforms\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminforms\RemoveUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\RemoveUserForm.Designer.cs">
+      <DependentUpon>RemoveUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminforms\UpdateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\UpdateUserForm.Designer.cs">
+      <DependentUpon>UpdateUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminforms\ViewSalesReportForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\ViewSalesReportForm.Designer.cs">
+      <DependentUpon>ViewSalesReportForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminforms\ViewTablesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminforms\ViewTablesForm.Designer.cs">
+      <DependentUpon>ViewTablesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefclasses\Order.cs" />
+    <Compile Include="Chefclasses\OrderDetails.cs" />
+    <Compile Include="Chefforms\Add_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Add_Items.Designer.cs">
+      <DependentUpon>Add_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\Chef Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Chef Management.Designer.cs">
+      <DependentUpon>Chef Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\Delete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Delete.Designer.cs">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Edit.Designer.cs">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\Orders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\Orders.Designer.cs">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chefforms\OrderUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chefforms\OrderUpdate.Designer.cs">
+      <DependentUpon>OrderUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customerforms\BrowseMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerforms\BrowseMenu.Designer.cs">
+      <DependentUpon>BrowseMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customerclasses\Customer.cs" />
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="Customerclasses\Feedback.cs" />
+    <Compile Include="Customerclasses\MenuItem.cs" />
+    <Compile Include="Customerclasses\OrderDetails.cs" />
+    <Compile Include="Customerforms\CustomerDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerforms\CustomerDashboard.Designer.cs">
+      <DependentUpon>CustomerDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customerforms\FeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerforms\FeedbackForm.Designer.cs">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customerforms\TopUpWallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerforms\TopUpWallet.Designer.cs">
+      <DependentUpon>TopUpWallet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gr8Food_Group2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Gr8Food_Group2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginPage.Designer.cs">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customerforms\MyOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customerforms\MyOrders.Designer.cs">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managerclasses\Feedback.cs" />
+    <Compile Include="Managerforms\FeedbackResponse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managerforms\FeedbackResponse.Designer.cs">
+      <DependentUpon>FeedbackResponse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managerclasses\Manager.cs" />
+    <Compile Include="Managerforms\ManagerHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managerforms\ManagerHome.Designer.cs">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateProfile.Designer.cs">
+      <DependentUpon>UpdateProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Managerclasses\ManagerWalletReportRepository.cs" />
+    <Compile Include="Managerforms\ViewEWallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Managerforms\ViewEWallet.Designer.cs">
+      <DependentUpon>ViewEWallet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="adminforms\AddUserForm.resx">
+      <DependentUpon>AddUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforms\AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforms\RemoveUserForm.resx">
+      <DependentUpon>RemoveUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforms\UpdateUserForm.resx">
+      <DependentUpon>UpdateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforms\ViewSalesReportForm.resx">
+      <DependentUpon>ViewSalesReportForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminforms\ViewTablesForm.resx">
+      <DependentUpon>ViewTablesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Add_Items.resx">
+      <DependentUpon>Add_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Chef Management.resx">
+      <DependentUpon>Chef Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Delete.resx">
+      <DependentUpon>Delete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Edit.resx">
+      <DependentUpon>Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\Orders.resx">
+      <DependentUpon>Orders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chefforms\OrderUpdate.resx">
+      <DependentUpon>OrderUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerforms\BrowseMenu.resx">
+      <DependentUpon>BrowseMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerforms\CustomerDashboard.resx">
+      <DependentUpon>CustomerDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerforms\FeedbackForm.resx">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerforms\TopUpWallet.resx">
+      <DependentUpon>TopUpWallet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginPage.resx">
+      <DependentUpon>LoginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customerforms\MyOrders.resx">
+      <DependentUpon>MyOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managerforms\FeedbackResponse.resx">
+      <DependentUpon>FeedbackResponse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managerforms\ManagerHome.resx">
+      <DependentUpon>ManagerHome.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateProfile.resx">
+      <DependentUpon>UpdateProfile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Managerforms\ViewEWallet.resx">
+      <DependentUpon>ViewEWallet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="AdminClassDiagram.cd" />
+    <None Include="CustomerClassDiagram.cd" />
+    <None Include="ManagerClassDiagram.cd" />
+    <None Include="Gr8Food_Group2DataSet.xsc">
+      <DependentUpon>Gr8Food_Group2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Gr8Food_Group2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Gr8Food_Group2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Gr8Food_Group2DataSet.xss">
+      <DependentUpon>Gr8Food_Group2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Managerforms\Chef_Role_Classes_Methods_Only.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

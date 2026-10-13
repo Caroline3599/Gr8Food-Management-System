@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IOOP_Manager.Feedback">
+    <Position X="1.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAACBAAAABAAAoAAAAIAABCAAAAgCAAAAAgCAAAAAA=</HashCode>
+      <FileName>Managerclasses\Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOOP_Manager.Manager">
+    <Position X="11.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAABCgAAEgQAAAIIEgAAAEICAACAAAAJAAAAAA=</HashCode>
+      <FileName>Managerclasses\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IOOP_Manager.ManagerWalletReportRepository">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAABAAA=</HashCode>
+      <FileName>Managerclasses\ManagerWalletReportRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gr8Food.Classes.DBHelper">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <AssociationLine Name="ManagerWalletReportRepository" Type="IOOP_Manager.ManagerWalletReportRepository" FixedFromPoint="true">
+      <Path>
+        <Point X="7.312" Y="3.267" />
+        <Point X="7.312" Y="5.25" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Manager" Type="IOOP_Manager.Manager" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="1.938" />
+        <Point X="11.75" Y="1.938" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAAAAAAAAAACAQAAAAAKBAAAAAAAABAAAAA=</HashCode>
+      <FileName>DBHelper.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Feedback" />
+      <Property Name="ManagerWalletReportRepository" />
+      <Property Name="Manager" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gr8Food.Classes.DBHelper">
+    <Position X="5.25" Y="0.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAAAAAAAAAACAQAAAAAKBAAAAAAAABAAAAA=</HashCode>
+      <FileName>DBHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ioop_Group_Assignment_Cheif.Order">
+    <Position X="1.25" Y="4" Width="4" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAABAAAAACAAAAAAAAAAAAEAAAAAAAAAAAgAAAAAI=</HashCode>
+      <FileName>Chefclasses\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ioop_Group_Assignment_Cheif.OrderDetails">
+    <Position X="7.5" Y="4.25" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAABAABAAAAgAAAAAA=</HashCode>
+      <FileName>Chefclasses\OrderDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
