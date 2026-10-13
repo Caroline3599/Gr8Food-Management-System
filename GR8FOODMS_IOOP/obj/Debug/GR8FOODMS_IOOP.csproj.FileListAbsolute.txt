@@ -1,0 +1,364 @@
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\User\source\repos\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Profile.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.ViewMenu.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerProfile.resources
+C:\Users\ASUS\Downloads\CUSTOMER_FINAL\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+D:\Users\nihao\Downloads\GR8FOODMS_IOOP_G2\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v4\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerProfile.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v5 (combine in side v4)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerProfile.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+D:\APU_resourse\backup\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Profile.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Profile.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyProfile.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerProfile.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\omara\Downloads\IOOP\IOOP_FINAL v6 (add chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Profile.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.TopUpWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.UpdateProfile.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.TopUpWallet.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.UpdateProfile.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\User\source\repos\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.TopUpWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.UpdateProfile.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v7 (Updateddd) (2)\IOOP_FINAL v7 (Updateddd)\IOOP_FINAL v7 (Updated chef)\IOOP_FINAL v7 (Updated chef)\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.TopUpWallet.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.UpdateProfile.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\omara\Downloads\IOOP\Final Final Final\V8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe.config
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\bin\Debug\GR8FOODMS_IOOP.pdb
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AddUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.AdminDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.RemoveUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.UpdateUserForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewSalesReportForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\System_Admin_Assignment.ViewTablesForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Add_Items.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Cheif.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Delete.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Edit.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Menu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.Orders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\Ioop_Group_Assignment_Cheif.OrderUpdate.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.BrowseMenu.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.CustomerDashboard.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.FeedbackForm.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.TopUpWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.LoginPage.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.MyOrders.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.FeedbackResponse.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ManagerHome.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.UpdateProfile.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\IOOP_Manager.ViewEWallet.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.Properties.Resources.resources
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.exe
+C:\Users\ASUS\Downloads\IOOP_FINAL v8\IOOP_FINAL v7\GR8FOODMS_IOOP\GR8FOODMS_IOOP\obj\Debug\GR8FOODMS_IOOP.pdb
