@@ -52,7 +52,7 @@ The system is built using **C#** and Windows Forms, applying robust **Object-Ori
 
 ## 📺 Demo Video & Database
 
-- **Demo Video:** [点击这里查看项目演示视频链接] *(请在此处替换或补充您的飞书/云盘/YouTube 演示视频链接)*
+- **Demo Video:** [https://zcne70tj2o23.feishu.cn/wiki/ZDi7wQKQdix4jSkoiHFcoT6pnLf?from=from_copylink] 
 - **Database File / Script:** 项目数据库基于 Microsoft SQL Server (`Gr8FoodDB`)。相关的 `.mdf` 文件或 SQL 备份脚本已存放在仓库的 `Database/` 目录下，您可以直接附加到本地 SQL Server 中运行。
 
 ---
